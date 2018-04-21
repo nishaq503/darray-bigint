@@ -5,7 +5,7 @@
 #ifndef __DARRAY_TESTS_H__
 #define __DARRAY_TESTS_H__
 
-#include "../source/darray.hpp"
+#include "../../source/darray/darray.hpp"
 
 void run_darray_tests();
 

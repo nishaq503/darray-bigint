@@ -3,4 +3,4 @@ project(darray_bigint)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(darray_bigint main.cpp source/darray.hpp tests/darray_tests.cpp tests/darray_tests.h source/bigint.cpp source/bigint.h tests/bigint_tests.cpp tests/bigint_tests.h)
+add_executable(darray_bigint main.cpp source/darray/darray.hpp tests/darray/darray_tests.cpp tests/darray/darray_tests.h source/bigint/bigint.cpp source/bigint/bigint.h tests/bigint/bigint_tests.cpp tests/bigint/bigint_tests.h)

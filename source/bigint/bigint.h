@@ -5,7 +5,7 @@
 #ifndef __BIGINT_H__
 #define __BIGINT_H__
 
-#include "darray.hpp"
+#include "../darray/darray.hpp"
 #include <string>
 #include <iostream>
 
